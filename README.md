@@ -34,8 +34,11 @@ Orders: Channels: Compared performance across different sales channels.
 Built an interactive dashboard connecting all charts.
 Added slicers for Category, Month, and Channels to enable dynamic exploration and filtering of data.
 
+![Screenshot 2025-01-10 150756](https://github.com/user-attachments/assets/8d1c1567-81a2-4ea6-8d24-e2e1deff55ba)
 
-6. Insights and Conclusion:
+
+
+7. Insights and Conclusion:
 
 Top States: Maharashtra, Karnataka, and Uttar Pradesh contribute 35% of total sales.
 Gender Contribution: Women account for 65% of sales, while men contribute 35%.
